@@ -1,0 +1,9 @@
+Partlist exported from D:/AUTODESK/untitled.sch at 19-06-2023 11:02
+
+Qty Value  Device    Package Parts          Description                MF MPN OC_FARNELL OC_NEWARK POPULARITY
+1          71-4-1524 71-5    TR1            TRANSFORMER                       unknown    unknown   0         
+1          C2,5-3    C2.5-3  C1             CAPACITOR                                              38        
+1          C2.5/2    C2.5-2  C2             CAPACITOR                                              28        
+2          MTA02-156 1X2MTA  J1, J2         AMP connector                                          4         
+4   1N4004 1N4004    DO41-10 D1, D2, D3, D4 DIODE                                                  82        
+1   317T   317T      TO220H  IC1            Positive VOLTAGE REGULATOR                             7         
